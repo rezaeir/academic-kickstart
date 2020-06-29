@@ -28,6 +28,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/rezaeir
+  - link: https://instagram.com/rezaeir75
+    icon_pack: fab
+    icon: instagram
 education:
   courses:
     - course: MSc in Biochemistry - Specialization in Human and Molecular Genetics
