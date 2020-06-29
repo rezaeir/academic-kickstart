@@ -15,9 +15,7 @@ image:
   caption: Photo by Jan Kahánek on Unsplash
   alt_text: empty pages of a notebook
 ---
-I just finished assembling, not buliding!!, my personal website, and this is the first post.
-
-## My Personal Blog
+## My Personal Website
 This is my first post on my online website/journal. I still don't know how much activity, writing! I'm going to have in this place! But I'm excited about finally starting this project.
 
 ## How it began
