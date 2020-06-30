@@ -16,8 +16,7 @@ image:
   preview_only: false
   caption: Photo by [Jan
     Kahánek](https://unsplash.com/@honza_kahanek?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-    on
-    [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+    on [Unsplash](https://unsplash.com/)
   alt_text: empty pages of a notebook
   filename: featured.jpg
 ---
