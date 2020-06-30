@@ -12,8 +12,12 @@ image:
   placement: 1
   focal_point: Smart
   preview_only: false
-  caption: Photo by [Jan Kahánek](https://unsplash.com/@honza_kahanek?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+  caption: Photo by [Jan
+    Kahánek](https://unsplash.com/@honza_kahanek?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+    on
+    [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
   alt_text: empty pages of a notebook
+  filename: featured.jpg
 ---
 
 ## My Personal Website  
