@@ -9,8 +9,8 @@ tags:
   - first_post
   - hello_world
 image:
-  filename: jan-kahanek-fvul6kzivlg-unsplash.jpg
-  focal_point: Center
+  filename: /static/img/jan-kahanek-fvul6kzivlg-unsplash.jpg
+  focal_point: Smart
   preview_only: false
   caption: Photo by Jan Kahánek on Unsplash
   alt_text: empty pages of a notebook
