@@ -18,8 +18,8 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: Photo by [Alfons
-    Morales](https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+  caption: Photo by [National Cancer
+    Institute](https://unsplash.com/@nci?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
     on
     [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
   alt_text: a man looking at bioinformatics data
@@ -96,7 +96,7 @@ Go through your usual process of Quality assessment, trimming, and alignment. Yo
 
 ```python
 # Trimming
-!trimmomatic PE -phred33 41\_R1.fastq 41\_R2.fastq 41\_R1\_paired.fq.gz 41\_R1\_unpaired.fq.gz 41\_R2\_paired.fq.gz 41\_R2\_unpaired.fq.gz ILLUMINACLIP:contams\_forward\_rev.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+!trimmomatic PE -phred33 R1.fastq R2.fastq R1\_paired.fq.gz R1\_unpaired.fq.gz R2\_paired.fq.gz R2\_unpaired.fq.gz ILLUMINACLIP:contams\_forward\_rev.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 ```
 
 ```python
