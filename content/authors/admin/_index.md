@@ -1,7 +1,7 @@
 ---
 title: Reza Rezaei
 role: Biochemistry Graduate Student
-avatar_filename: reza-rezaei.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: University of Ottawa
     url: https://www.uottawa.ca/
