@@ -35,10 +35,10 @@ Just go to your google drive, make a new folder, and name it Zotero.
 Follow the link, download, and install the [Backup and Sync](https://www.google.com/drive/download/) tool for google drive. The installation procedure is very straight forward. It asks you to check the folders that it should backup in google drive, which you can uncheck all folders if you don't want to backup anything. In the next step, it asks you what folders in your google drive you'd like to share in your file explorer. Naturally, you should select the Zotero folder!
 
 ### Configure Zotero
-Open your Zotero desktop and go to `edit --> preferences --> Advanced --> File and Folders --> Data Directory Location --> Custom`. You should give it the address to the Zotero folder on your google drive, which is by windows default in `C:\Users\<yourUserName>\Google Drive\Zotero`. After setting the location, Zotero asks you to restart the app. After re-opening, it warns you that;
+Open your Zotero desktop and go to `edit --> preferences --> Advanced --> File and Folders --> Data Directory Location --> Custom`. You should give it the address to the Zotero folder on your google drive, which is by windows default in `C:\Users\<yourUserName>\Google Drive\Zotero`. After setting the location, Zotero asks you to restart the app. After re-opening, it warns you that:
 
 > Storing the data directory in a cloud storage folder is very likely to corrupt your database.
-C:\Users\<yourUserName>\Google Drive\Zotero
+`C:\Users\<yourUserName>\Google Drive\Zotero`
 Are you sure you want to use this location?
 
 which you should choose `Yes` and then it restarts again! If it warned you again, check the box that says, "don't ask again," The warning will go away.
