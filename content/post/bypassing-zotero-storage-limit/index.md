@@ -16,8 +16,7 @@ image:
   preview_only: false
   caption: Photo by [Alfons
     Morales](https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-    on
-    [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+    on [Unsplash](https://unsplash.com/)
   alt_text: an out of capacity library
 ---
 ## The Problem
