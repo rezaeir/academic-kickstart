@@ -9,7 +9,7 @@ tags:
   - first_post
   - hello_world
 image:
-  filename: /static/img/jan-kahanek-fvul6kzivlg-unsplash.jpg
+  filename: jan-kahanek-fvul6kzivlg-unsplash
   focal_point: Smart
   preview_only: false
   caption: Photo by Jan Kahánek on Unsplash
