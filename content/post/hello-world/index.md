@@ -3,6 +3,8 @@ title: Hello World!
 subtitle: I just finished assembling, not buliding!!, my personal website, and
   this is the first post.
 date: 2020-06-29T20:50:46.984Z
+summary: I just finished assembling, not buliding!!, my personal website, and
+  this is the first post.
 draft: false
 featured: false
 tags:
