@@ -20,8 +20,7 @@ image:
   preview_only: false
   caption: Photo by [National Cancer
     Institute](https://unsplash.com/@nci?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-    on
-    [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+    on [Unsplash](https://unsplash.com/)
   alt_text: a man looking at bioinformatics data
 ---
 ## The Problem
