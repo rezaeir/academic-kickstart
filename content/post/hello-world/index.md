@@ -11,11 +11,12 @@ tags:
 image:
   filename: jan-kahanek-fvul6kzivlg-unsplash.jpg
   focal_point: Center
-  preview_only: true
+  preview_only: false
   caption: Photo by Jan Kahánek on Unsplash
   alt_text: empty pages of a notebook
 ---
-## My Personal Website
+
+## My Personal Website  
 This is my first post on my online website/journal. I still don't know how much activity, writing! I'm going to have in this place! But I'm excited about finally starting this project.
 
 ## How it began
