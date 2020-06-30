@@ -37,8 +37,8 @@ Follow the link, download, and install the [Backup and Sync](https://www.google.
 Open your Zotero desktop and go to `edit --> preferences --> Advanced --> File and Folders --> Data Directory Location --> Custom`. You should give it the address to the Zotero folder on your google drive, which is by windows default in `C:\Users\<yourUserName>\Google Drive\Zotero`. After setting the location, Zotero asks you to restart the app. After re-opening, it warns you that:
 
 > Storing the data directory in a cloud storage folder is very likely to corrupt your database.
-`C:\Users\<yourUserName>\Google Drive\Zotero`
-Are you sure you want to use this location?
+> `C:\Users\<yourUserName>\Google Drive\Zotero`
+> Are you sure you want to use this location?
 
 which you should choose `Yes` and then it restarts again! If it warned you again, check the box that says, "don't ask again," The warning will go away.
 
