@@ -43,8 +43,4 @@ email: rezaeir75@gmail.com
 user_groups:
   - ""
 ---
-<!--StartFragment-->
-
 I am a Molecular Biology Student interested in developing Oncolytic Viruses for Cancer Therapy. I'm also a newcomer in the world of Programming who is familiar with Python, R, Bash, and Julia and strives to learn more. I'm also actively learning Data Science, Machine Learning, Multivariable Calculus & Linear Algebra, Statistics, NGS Data Analysis, and Zen. So, my writings will encompass all these subjects and more!
-
-<!--EndFragment-->
